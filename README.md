@@ -13,7 +13,7 @@ Building developer tools, systems software, and open-source data infrastructure.
 
 ## Selected Projects
 
-- **[CampAnalytics](https://github.com/tanvirsdq/CampAnalytics)** — Event analytics and contributor retention platform for Wikimedia campaigns. Hosted on Wikimedia Toolforge ([campanalytics.toolforge.org](https://campanalytics.toolforge.org/)).
+- **[CampTools](https://github.com/tanvirsdq/CampAnalytics-rewrite)** — Event analytics and contributor retention platform for Wikimedia campaigns. Hosted on Wikimedia Toolforge ([camptools.toolforge.org](https://camptools.toolforge.org/)). 
 - **[CodeFunc](https://github.com/tanvirsdq/CodeFunc)** — VS Code extension displaying zero-click architectural file outlines at Line 0 via local AST heuristics. ([Marketplace](https://marketplace.visualstudio.com/items?itemName=TanvirSdq.codefunc-vscode))
 - **[CampusShare KUET](https://github.com/Forkship/Forkathon2026-Team-KUET_MANTIS)** — Peer-to-peer campus equipment lending platform built with FastAPI, React, MapLibre GL, and Capacitor.
 - **[Nuvio](https://github.com/NuvioMedia)** — Contributor to open-source media streaming clients for Android and Android TV.
