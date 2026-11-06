@@ -9,14 +9,14 @@ Building developer tools, systems software, and open-source data infrastructure.
 
 - **Developer Tooling:** Static analysis, local AST parsing, and editor extensions.
 - **Wikimedia Infrastructure:** Toolforge tooling, data pipelines, and maintenance automation.
-- **Systems & ML:** Low-level fundamentals, tokenization, and neural network architectures.
+- **Algorithms & ML:** Algorithmic problem solving in C++, practical data pipelines, and machine learning.
 
 ## Selected Projects
 
 - **[CampTools](https://github.com/tanvirsdq/CampAnalytics-rewrite)** — Event analytics and contributor retention platform for Wikimedia campaigns. Hosted on Wikimedia Toolforge ([camptools.toolforge.org](https://camptools.toolforge.org/)). 
 - **[CodeFunc](https://github.com/tanvirsdq/CodeFunc)** — VS Code extension displaying zero-click architectural file outlines at Line 0 via local AST heuristics. ([Marketplace](https://marketplace.visualstudio.com/items?itemName=TanvirSdq.codefunc-vscode))
 - **[CampusShare KUET](https://github.com/Forkship/Forkathon2026-Team-KUET_MANTIS)** — Peer-to-peer campus equipment lending platform built with FastAPI, React, MapLibre GL, and Capacitor.
-- **[Nuvio](https://github.com/NuvioMedia)** — Contributor to open-source media streaming clients for Android and Android TV.
+- **[Nuvio & Obtainium](https://github.com/NuvioMedia)** — Contributor delivering native Bengali localization and software terminology refinement across open-source Android clients ([Nuvio](https://github.com/NuvioMedia), [Obtainium](https://github.com/ImranR98/Obtainium)).
 - **[AgroScan](https://github.com/tanvirsdq/MainCropDiseaseDetection)** — 38-class plant disease classification using transfer learning.
 
 ## Open-Source Impact
