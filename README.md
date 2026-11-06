@@ -16,7 +16,7 @@ Building developer tools, systems software, and open-source data infrastructure.
 - **[CampTools](https://github.com/tanvirsdq/CampAnalytics-rewrite)** — Event analytics and contributor retention platform for Wikimedia campaigns. Hosted on Wikimedia Toolforge ([camptools.toolforge.org](https://camptools.toolforge.org/)). 
 - **[CodeFunc](https://github.com/tanvirsdq/CodeFunc)** — VS Code extension displaying zero-click architectural file outlines at Line 0 via local AST heuristics. ([Marketplace](https://marketplace.visualstudio.com/items?itemName=TanvirSdq.codefunc-vscode))
 - **[CampusShare KUET](https://github.com/Forkship/Forkathon2026-Team-KUET_MANTIS)** — Peer-to-peer campus equipment lending platform built with FastAPI, React, MapLibre GL, and Capacitor.
-- **[Nuvio & Obtainium](https://github.com/NuvioMedia)** — Contributor delivering native Bengali localization and software terminology refinement across open-source Android clients ([Nuvio](https://github.com/NuvioMedia), [Obtainium](https://github.com/ImranR98/Obtainium)).
+- **[Open Source App Localization](https://github.com/TanvirSdq)** — Native Bengali localization and UI terminology refinement across open-source Android clients including [Nuvio](https://github.com/NuvioMedia), [Obtainium](https://github.com/ImranR98/Obtainium), and [Echo Music](https://github.com/TanvirSdq/Echo-Music).
 - **[AgroScan](https://github.com/tanvirsdq/MainCropDiseaseDetection)** — 38-class plant disease classification using transfer learning.
 
 ## Open-Source Impact
