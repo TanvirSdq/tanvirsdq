@@ -3,14 +3,6 @@
 CS undergraduate at Khulna University of Engineering & Technology (KUET).  
 Building developer tools, systems software, and open-source data infrastructure.
 
----
-
-## Engineering Focus
-
-- **Developer Tooling:** Static analysis, local AST parsing, and editor extensions.
-- **Wikimedia Infrastructure:** Toolforge tooling, data pipelines, and maintenance automation.
-- **Algorithms & ML:** Algorithmic problem solving in C++, practical data pipelines, and machine learning.
-
 ## Selected Projects
 
 - **[CampTools](https://github.com/tanvirsdq/CampAnalytics-rewrite)** — Event analytics and contributor retention platform for Wikimedia campaigns. Hosted on Wikimedia Toolforge ([camptools.toolforge.org](https://camptools.toolforge.org/)). 
